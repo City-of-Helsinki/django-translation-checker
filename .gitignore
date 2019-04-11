@@ -1,0 +1,3 @@
+*.pyc
+dist/
+/django_translation_checker.egg-info
